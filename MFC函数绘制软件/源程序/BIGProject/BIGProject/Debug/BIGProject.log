@@ -1,0 +1,6 @@
+﻿  BIGProject.cpp
+c:\users\vs\desktop\bigproject(1)\bigproject\bigproject\bigproject.cpp(433): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\vs\desktop\bigproject(1)\bigproject\bigproject\bigproject.cpp(434): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\vs\desktop\bigproject(1)\bigproject\bigproject\bigproject.cpp(199): warning C4101: “ps”: 未引用的局部变量
+  BIGProject.vcxproj -> C:\Users\vs\Desktop\BIGProject(1)\BIGProject\Debug\BIGProject.exe
+  BIGProject.vcxproj -> C:\Users\vs\Desktop\BIGProject(1)\BIGProject\Debug\BIGProject.pdb (Full PDB)
